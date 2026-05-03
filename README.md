@@ -35,9 +35,6 @@ Hardhat – Development environment
 Ethers.js – Blockchain interaction
 
 
-React.js (optional frontend)
-
-
 Tailwind CSS (UI styling)
 
 
